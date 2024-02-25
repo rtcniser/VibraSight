@@ -1,5 +1,5 @@
-# Using Machine Learning to aid the specially abled
-The aim was to create a smart walking stick for people who are blind that would be able to use an ML model to detect objects in the immediate surroundings and provide audio and other stimuli to aid in sensing the environment.
+# Using Machine Learning to aid the Specially Abled
+The aim was to create a smart walking stick **VibraSight** for people who are blind that would be able to use an ML model to detect objects in the immediate surroundings and provide audio and other stimuli to aid in sensing the environment.
 We used :
 - Raspberry Pi 4 model b
 - Raspberry Pi Camera module v2
