@@ -9,7 +9,7 @@ We used :
 - Power bank
 
 Software Components:
-- Entire code was written in python, even the arduino borad was controlled using Pyfirmatta
+- Entire code was written in python, even the arduino board was controlled using Pyfirmatta
 - We used YOLOv8 in nano size, exported in onnx format, to improve performance on CPU
 
 Possible Improvemnts:
